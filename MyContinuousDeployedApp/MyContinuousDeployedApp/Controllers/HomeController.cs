@@ -17,7 +17,7 @@ namespace MyContinuousDeployedApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "My page";
+            ViewBag.Message = "Hallo, mijn naam is Erik Steinebach";
 
             return View();
         }
